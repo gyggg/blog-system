@@ -82,7 +82,6 @@ blog.iml
 my-blog.iml
 my-blog.sql
 pom.xml
-src/
 target/
 template-new/
 template/
