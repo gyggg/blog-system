@@ -78,10 +78,6 @@ fabric.properties
 .idea/httpRequests
 
 .idea/
-blog.iml
-my-blog.iml
-my-blog.sql
-pom.xml
 target/
 template-new/
 template/
